@@ -9,6 +9,8 @@ h1 {
     font-size: 35px;
     background-color: #9183ad;
     border-radius: 15px 50px; /*rounding background border*/
+    background-position: center;
+    background-size: cover;
 }
 
  h1,
