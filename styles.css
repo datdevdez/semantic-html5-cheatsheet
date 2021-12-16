@@ -1,3 +1,4 @@
+/*Imported a font, Baloo Bhaijaan 2, from Google Fonts*/
 body {
     font-family: 'Baloo Bhaijaan 2', monospace;
     text-align: center;
@@ -7,23 +8,23 @@ body {
 h1 {
     font-size: 35px;
     background-color: #9183ad;
-    border-radius: 15px 50px;
+    border-radius: 15px 50px; /*rounding background border*/
 }
 
  h1,
  thead {
     background-color: #9183ad;
     color: #ffffff;
-    text-shadow: 2px 2px 4px #000000;
+    text-shadow: 2px 2px 4px #000000; /*shadow styles for headers*/
  }
 
 table {
-    border-style: ridge;
+    border-style: ridge; /*creating 3D table look*/
     border-width: 4px;
     border-color: #9183ad;
-    margin: auto;
+    margin: auto; /*centers table*/
     overflow-x: auto;
-    filter: drop-shadow(0 0 0.50rem #000000);
+    filter: drop-shadow(0 0 0.50rem #000000); /*table shadow*/
 }
 
 td {
