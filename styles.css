@@ -3,6 +3,9 @@ body {
     font-family: 'Baloo Bhaijaan 2', monospace;
     text-align: center;
     background-color: #d9d9d9;
+    min-width: 300px;
+    width: 800px;
+    margin: 0 auto;
 }
 
 h1 {
@@ -26,8 +29,6 @@ table {
     border-style: ridge; /*creating 3D table look*/
     border-width: 4px;
     border-color: #9183ad;
-    margin: auto; /*centers table*/
-    table-layout: fixed;
     filter: drop-shadow(0 0 0.50rem #000000); /*table shadow*/
 }
 
@@ -39,5 +40,5 @@ td {
     border-right: .2px solid #000000;
     border-style: outset;
     border-width: 2px;
-    width: fit-content;
 }
+
