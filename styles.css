@@ -13,6 +13,7 @@ h1 {
     background-size: cover;
 }
 
+/* h1 and Table header text */
  h1,
  thead {
     background-color: #9183ad;
@@ -20,6 +21,7 @@ h1 {
     text-shadow: 2px 2px 4px #000000; /*shadow styles for headers*/
  }
 
+ /* Table */
 table {
     border-style: ridge; /*creating 3D table look*/
     border-width: 4px;
