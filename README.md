@@ -2,7 +2,7 @@ Project Name: Build Your Own Cheat Sheet
 
 Project Developer: Dezmond Williams
 
-Project Link: https://datdevdez.github.io/semantichtml5cheatsheet/
+Project Link: https://datdevdez.github.io/semantic-html5-cheatsheet/
 
 Project Description:
 
